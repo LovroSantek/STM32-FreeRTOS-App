@@ -1,0 +1,6 @@
+../Core/Src/audio.c:18:6:init_AudioReset	1
+../Core/Src/audio.c:22:6:configAudio	1
+../Core/Src/audio.c:110:6:generateSineTable	2
+../Core/Src/audio.c:121:6:fillDmaBuffer	3
+../Core/Src/audio.c:142:6:changeAudioFrequency	1
+../Core/Src/audio.c:147:6:changeAudioAmplitude	1

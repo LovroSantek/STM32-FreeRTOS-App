@@ -1,0 +1,6 @@
+../Core/Src/usart.c:38:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:66:6:HAL_UART_MspInit	48	static
+../Core/Src/usart.c:136:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:166:6:USART2_SendChar	16	static
+../Core/Src/usart.c:170:6:UART_IdleCallback	24	static
+../Core/Src/usart.c:195:5:_write	24	static
